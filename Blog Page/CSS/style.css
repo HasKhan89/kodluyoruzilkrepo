@@ -1,3 +1,8 @@
+html { 
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;   
+    background-color: cadetblue;
+}
 .menu {
     list-style: none
     display block;
@@ -18,3 +23,4 @@ aside {
     font-style: italic;
     background-color: lightgray;
   }
+
